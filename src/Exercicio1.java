@@ -11,7 +11,6 @@ public class Exercicio1 {
     String[] listadoD = f.list();
     File[] archivos = f.listFiles();
     
-
     switch (tipo) {
       case "l":
 
